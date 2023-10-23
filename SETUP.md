@@ -51,4 +51,4 @@ Framework.client:add(clientStorage)
 Framework.client:run()
 </code></pre>
 
-# Service/Controller creation wip
+# Service/Controller creation coming soon
