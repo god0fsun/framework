@@ -1,4 +1,4 @@
-Setup for the framework is fairly easy, and all found in the main repository (service/controller code is found in the service_test folder, and initalization code is found in the init_script_test folder
+### Setup for the framework is fairly easy, and all found in the main repository (service/controller code is found in the service_test folder, and initalization code is found in the init_script_test folder
 
 # Creating folders
 To create services, your going to need 2 folders, **one for the server and one for the client**.
