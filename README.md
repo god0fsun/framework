@@ -1,2 +1,2 @@
-# luau_framework
+# framework
 (name pending) WIP
